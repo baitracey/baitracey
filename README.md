@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hi there 👋 I'm currently learning JavaScript
+Hi, I'm Bailey Tracey 👋
+Digital Marketer | Social Media Strategist | Content Creator
 
+I'm a results-driven Digital Marketer passionate about social media strategy, content creation, and employer branding. I've led campaigns that generated over 500,000+ impressions across platforms like LinkedIn and Facebook, while continuously optimizing engagement and refining brand presence.
+
+With a background in Marketing and certifications from Google, Baltic Apprenticeships, and Code Academy, I specialize in crafting campaigns that connect, engage, and inspire. My toolkit includes Adobe Photoshop, Premiere Pro, Canva, Hootsuite, CMS platforms, and more.
+
+I'm all about creative storytelling, data-driven strategy, and enhancing digital experiences. Always learning, always creating!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bailey-tracey-782812239) 
