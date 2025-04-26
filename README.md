@@ -8,6 +8,9 @@ With a background in Marketing and certifications from Google, Baltic Apprentice
 
 I'm all about creative storytelling, data-driven strategy, and enhancing digital experiences. Always learning, always creating!
 
+![happy dance GIF](https://github.com/user-attachments/assets/982aa396-5ed3-406b-b3d4-164dd44e097e)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bailey-tracey-782812239) 
 
